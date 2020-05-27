@@ -1,0 +1,6 @@
+export const about = {
+    heading: "About Me",
+    "quote": "If you love life, don't waste time, \nfor time is what life is made up of",
+    "bio": "I have done my B.Tech from Dream Institute Of Technology,kolkata 2019 .\nI have done three projects in my academic career ,one is Development of Mind-Education-System ,second one is Smart Student Organizer and third\none is Library Management System.I got selected in Smart India Hackathon 2018 on my project Development Of Mind Education System.I am recetly learning MERN stack and also making some fun projects on that.\n \nI am that kind of person who can take lot of initiative ,who has a great apetite to learn and also have a deep passion for Engineering.I have a love for Technology.Working out on new technologies excites me a lot.I want to land myself as a Software-Developer in an IT company where i can get lots of learing oportunities and showcase my potential.\nMy Hobbies : \ni love to play guiter ,listening music , gaining knowledge and playing badminton & football .\n" 
+ 
+};
